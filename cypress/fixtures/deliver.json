@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Anderson Lira",
+        "cpf": "00000014141",
+        "email": "anderson@hotmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "55291661",
+            "street": "Rua Manoel de Aquino Vasconcelos",
+            "number": "44",
+            "details": "ap 152",
+            "district": "Francisco Simão dos Santos Figueira",
+            "city_state": "Garanhuns/PE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "João Lira",
+        "cpf": "000000141AA",
+        "email": "joao@hotmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "55291661",
+            "street": "Rua Manoel de Aquino Vasconcelos",
+            "number": "44",
+            "details": "ap 152",
+            "district": "Francisco Simão dos Santos Figueira",
+            "city_state": "Garanhuns/PE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Anderson Lira",
+        "cpf": "00000014141",
+        "email": "andersonhotmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "55291661",
+            "street": "Rua Manoel de Aquino Vasconcelos",
+            "number": "44",
+            "details": "ap 152",
+            "district": "Francisco Simão dos Santos Figueira",
+            "city_state": "Garanhuns/PE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
